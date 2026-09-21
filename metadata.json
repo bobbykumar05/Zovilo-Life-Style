@@ -1,0 +1,6 @@
+{
+  "name": "Zovilo Life Style Assets Management System",
+  "description": "Smart, Secure and Centralized Corporate Asset Management, Employee Allocation, Handover & NOC Clearance System",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
